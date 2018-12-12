@@ -10,5 +10,5 @@
  File                           | Description   |
 | ------------------------------| ------------- |
 | US-gun-murders-final.ipynb    | Py code organized in a main class dataset() with some methods/attributes used to analyize csv files|
-| guns.csv                      | dataset of guns death|
-| census.csv                    | dataset of us census collected on 2014|
+| guns.csv                      | Dataset of Gun's Death|
+| census.csv                    | Dataset of US Census collected on 2014|
